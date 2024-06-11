@@ -1,0 +1,7 @@
+/* carousel.css */
+
+.carousel-slide {
+    min-width: 100%;
+    transition: transform 0.5s ease-out;
+  }
+  
